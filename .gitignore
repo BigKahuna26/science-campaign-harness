@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+campaigns/
+.DS_Store
+*.egg-info/
+.venv/
